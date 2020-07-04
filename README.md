@@ -8,12 +8,12 @@ This project was developed under the [Algorithms and Data Structures](https://ww
 ## How to run
 * Compile with the following command (or equivalent):
 ```console
-$ cc -Wall -O2 assignment.c -lm
+$ cc -Wall -O2 assignment.c -o assignment -lm
 ```
 
 * Run:
 ```console
-$ ./a.out [insert nMec]
+$ ./assignment [insert nMec]
 ```
 
 ## Authors
