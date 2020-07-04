@@ -2,7 +2,7 @@
 
 Algorithms to solve a problem in C using different methods (brute force, branch-and-bound, random permutations)
 
-##Course
+## Course
 This project was developed under the [Algorithms and Data Structures](https://www.ua.pt/en/uc/12281) course of [University of Aveiro](https://www.ua.pt/).
 
 ## How to run
