@@ -16,6 +16,9 @@ $ cc -Wall -O2 assignment.c -o assignment -lm
 $ ./assignment [insert nMec]
 ```
 
+## Grade 
+This project's grade was **16** out of 20.
+
 ## Authors
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
 * **Pedro Bastos**: [bastos-01](https://github.com/bastos-01)
